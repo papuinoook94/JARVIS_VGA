@@ -1,0 +1,11 @@
+# Archivos de entorno
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Archivos generados por Docker
+*.log
+docker-compose.override.yml
+.env.*
